@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Oran
 
-🎓 M.S. in Electronic Information  
-🚗 Automotive Embedded Software Engineer  
-📍  From Henan, China  
+|  |  |
+|--|--|
+| 🎓 | M.S. in Electronic Information |
+| 🚗 | Automotive Embedded Software Engineer |
+| 📍 | From Henan, China | 
 
 ---
 

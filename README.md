@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whr1241&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=whr1241&theme=tokyonight)
 
 ---
 

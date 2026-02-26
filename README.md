@@ -2,7 +2,7 @@
 
 - 🎓 M.S. in Electronic Information  
 - 🚗 Automotive Embedded Software Engineer  
-- 📍&nbsp; From Henan, China  
+- 📍&nbsp;&nbsp; From Henan, China  
 
 ---
 
